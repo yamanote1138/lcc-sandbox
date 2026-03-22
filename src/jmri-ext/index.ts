@@ -1,0 +1,5 @@
+export { ExtendedJmriClient } from './extended-jmri-client'
+export { SensorManager } from './sensor-manager'
+export { LightManager } from './light-manager'
+export { SensorState, LightState, sensorStateToString, lightStateToString } from './types'
+export type { SensorData, SensorMessage, LightData, LightMessage } from './types'

@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.env
+.env.*
+*.tsbuildinfo
+auto-imports.d.ts
+components.d.ts
+.vite
+.DS_Store
